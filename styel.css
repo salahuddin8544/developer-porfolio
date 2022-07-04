@@ -17,6 +17,9 @@ span{
     padding: 10px 40px;
     border-radius: 10px;
 }
+.color-orange{
+    color: orange;
+}
 .half-width{
     width: 50%;
     padding-left: 5%;
@@ -37,4 +40,31 @@ span{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 100px;
 }
+.experience-item{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    display: flex;
+    margin-bottom: 100px;
+}
+.full-stact{
+    width: 40%;
+    margin: 0 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding:20px;
+    border-left: 5px solid blue;
+}
+.baby-web{
+    width:40%;
+    margin: 0 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding:20px;
+    border-left: 5px solid tomato;
+}
+footer{
+    text-align: center;
+}
+
